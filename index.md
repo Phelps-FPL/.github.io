@@ -1,6 +1,6 @@
 ## 9月份月报
 
-![image](https://user-images.githubusercontent.com/34466575/140936092-3e614957-8735-4b2c-8d32-f57e6ff3b7ae.png)
+![image](https://user-images.githubusercontent.com/34466575/140936176-33a36a6f-a868-4142-abae-034991ab092b.png)
 
 ![image](https://user-images.githubusercontent.com/34466575/140935466-c94e3915-9f69-4cd6-a30a-e24473a27cb7.png)
 
