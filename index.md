@@ -1,37 +1,29 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Phelps-FPL/.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/34466575/140935443-cdb6b338-b4fe-4533-ad6e-049a48c2f99c.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/34466575/140935466-c94e3915-9f69-4cd6-a30a-e24473a27cb7.png)
 
-### Markdown
+![image](https://user-images.githubusercontent.com/34466575/140935482-340c8663-144d-4a15-8aea-8d3cee68dbc2.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](https://user-images.githubusercontent.com/34466575/140935487-4f5d5d99-e5db-4951-bf57-03f88a0a6bfa.png)
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/34466575/140935496-9b810cf7-3923-4f57-9ce2-bd2b8c83dcea.png)
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/34466575/140935506-7b1aadc6-ca06-4bb1-8b9f-114a0686aaec.png)
 
-- Bulleted
-- List
+![image](https://user-images.githubusercontent.com/34466575/140935517-c81c009b-c4e7-4b35-9936-df31b879baea.png)
 
-1. Numbered
-2. List
+![image](https://user-images.githubusercontent.com/34466575/140935525-bd28363d-29d6-4b78-a183-fd2677a78c88.png)
 
-**Bold** and _Italic_ and `Code` text
+![image](https://user-images.githubusercontent.com/34466575/140935534-5479ad8e-1b92-4ec6-94db-6a9d63574c7e.png)
 
-[Link](url) and ![Image](src)
-```
+![image](https://user-images.githubusercontent.com/34466575/140935543-5ecabd87-ef59-42aa-a022-7d12762ed83e.png)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![image](https://user-images.githubusercontent.com/34466575/140935569-b56cedae-6376-4867-9fb2-bd89e813709f.png)
 
-### Jekyll Themes
+![image](https://user-images.githubusercontent.com/34466575/140935578-eeb0a098-ab6b-4f97-b59c-0a742e110d91.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Phelps-FPL/.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![image](https://user-images.githubusercontent.com/34466575/140935584-672d107c-3e10-457e-b395-bfc42110f7a3.png)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![image](https://user-images.githubusercontent.com/34466575/140935595-c7e5125b-1fbb-42f6-a45a-a8b365de03c0.png)
